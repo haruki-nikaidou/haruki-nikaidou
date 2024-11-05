@@ -1,8 +1,8 @@
+<img src="./aki-haruki.svg" width="320px" />
+
 # Nikaidou Haruki
 
 Full stack web developer, smart contract developer, 2D designer.
-
-![](./aki-haruki.svg)
 
 ---
 
