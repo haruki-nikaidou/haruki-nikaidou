@@ -4,8 +4,6 @@
 
 Full stack web developer, smart contract developer, 2D designer.
 
----
-
 ## Tech Stack
 
 ### 👑 Most Experienced
