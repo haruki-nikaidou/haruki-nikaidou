@@ -31,6 +31,5 @@ Full stack web developer, smart contract developer, 2D designer.
 *I code for my company at most of time so shamefully I don't have famous opensource projects.*
 
 - [Koibumi Design System](https://github.com/koibumi-design)
+- [Shizuku](https://shizuku.netaneko.com/): Modern microservices framework based on NATS for Rust.
 - [mem-yaml](https://github.com/haruki-nikaidou/mem-yaml): an alternative of anki.
-- [subjective](https://github.com/koibumi-design/subjective): high performance file sharing system (in early stage)
-- [yggdrasil](https://github.com/koibumi-design/yggdrasil): opensource infrastructure for any business project.
