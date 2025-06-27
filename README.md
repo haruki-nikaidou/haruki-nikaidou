@@ -8,19 +8,19 @@ Full stack web developer, smart contract developer, 2D designer.
 
 ### 👑 Most Experienced
 
-![Most Experienced Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,ts,react,solidjs,illustrator)
+![Most Experienced Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,illustrator,nextjs,svelte)
 
 ### 💎 Professional
 
-![Professional Skills](https://go-skill-icons.vercel.app/api/icons?i=actix,nextjs,postgresql,svelte,astro,nixos,sass,tailwind,grpc,solidity&perline=7)
+![Professional Skills](https://go-skill-icons.vercel.app/api/icons?i=actix,tokiors,ts,postgresql,react,solidjs,astro,nixos,sass,tailwind,grpc,solidity,docker,rabbitmq,redis&perline=7)
 
 ### 📖 Intermediate
 
-![Intermediate Skills](https://go-skill-icons.vercel.app/api/icons?i=python,aftereffects,electron,kafka,php,c,cmake,jquery,hono,expressjs,figma,docker,redux,zustand,trpc,pytorch,rabbitmq,nginx,redis,mongodb,mariadb&titles=true&perline=10)
+![Intermediate Skills](https://go-skill-icons.vercel.app/api/icons?i=python,aftereffects,electron,kafka,php,c,cmake,jquery,hono,expressjs,figma,redux,zustand,trpc,pytorch,nginx,mongodb,mariadb,neovim,notion&titles=true&perline=10)
 
 ### 🪁 Enough for Toy Projects
 
-![Skills that Enough for Toy Projects](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,terraform,haskell,cpp,cmake,elixir,go,kotlin,firebase,supabase,p5js,elysia,matlab,fastapi,grafana,proxmox,java,nestjs,htmx,vue,laravel,dart,threejs&titles=true&perline=10)
+![Skills that Enough for Toy Projects](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,terraform,haskell,cpp,elixir,go,kotlin,firebase,supabase,p5js,elysia,matlab,fastapi,grafana,proxmox,java,nestjs,htmx,vue,laravel,dart,threejs,typst,latex&titles=true&perline=10)
 
 ### 🫥 Too Simple that nobody cares
 
