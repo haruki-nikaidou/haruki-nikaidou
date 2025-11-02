@@ -30,6 +30,5 @@ Full stack web developer, smart contract developer, 2D designer.
 
 *I code for my company at most of time so shamefully I don't have famous opensource projects.*
 
-- [Koibumi Design System](https://github.com/koibumi-design)
-- [Shizuku](https://shizuku.netaneko.com/): Modern microservices framework based on NATS for Rust.
-- [mem-yaml](https://github.com/haruki-nikaidou/mem-yaml): an alternative of anki.
+- [Koibumi Blog](https://astro.koibumi.art/): An Astro blog template.
+- [Kanau](https://github.com/suitsu31-club/kanau): An event driven microservice framework inspired by `tower`.
