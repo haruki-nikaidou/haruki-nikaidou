@@ -2,7 +2,7 @@
 
 # Nikaidou Haruki
 
-Full stack web developer, working in a startup. Also a 2D designer.
+Experienced full stack web developer. Also working as 2D designer with Aphantasia.
 
 ## Tech Stack
 
