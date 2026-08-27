@@ -12,19 +12,23 @@ Experienced full stack web developer. Also working as 2D designer with Aphantasi
 
 ### 💎 Professional
 
-![Professional Skills](https://go-skill-icons.vercel.app/api/icons?i=actix,ts,postgresql,react,solidjs,astro,nixos,sass,tailwind,grpc,solidity,docker,rabbitmq,redis,illustrator,nextjs&perline=7)
+![Professional Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,postgresql,react,astro,nixos,sass,tailwind,grpc,docker,rabbitmq,redis,affinity,grafana,nextjs,linux,ffmpeg&perline=8)
 
 ### 📖 Intermediate
 
-![Intermediate Skills](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,python,aftereffects,electron,kafka,php,c,cmake,jquery,hono,expressjs,figma,shadcn,pytorch,numpy,nginx,mongodb,mariadb,neovim,grafana,prometheus,githubactions&titles=true&perline=10)
+![Intermediate Skills](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,python,cloudflare,electron,solidjs,php,c,cmake,hono,figma,shadcn,pytorch,haskell,numpy,nginx,neovim,prometheus,solidity,bevy,githubactions,polars&titles=true&perline=10)
 
 ### 🪁 Enough for Toy Projects
 
-![Skills that Enough for Toy Projects](https://go-skill-icons.vercel.app/api/icons?i=terraform,haskell,cpp,elixir,go,kotlin,firebase,supabase,p5js,elysia,matlab,fastapi,proxmox,java,nestjs,htmx,vue,laravel,dart,threejs,typst,latex,duckdb,gleam,n8n&titles=true&perline=10)
+![Skills that Enough for Toy Projects](https://go-skill-icons.vercel.app/api/icons?i=surrealdb,terraform,cpp,kotlin,p5js,elysia,matlab,fastapi,proxmox,java,nestjs,htmx,laravel,dart,threejs,typst,latex,gleam&titles=true&perline=10)
 
 ### 🫥 Too Easy that nobody cares
 
-![Too Simple that nobody cares](https://go-skill-icons.vercel.app/api/icons?i=git,vite,vitest,cursor,zed,npm,pnpm,yarn,nodejs,bun,deno,html,css,js,vscode,markdown,sqlite,vercel,postman,regex,helix&titles=true&perline=10)
+![Too Simple that nobody cares](https://go-skill-icons.vercel.app/api/icons?i=git,vite,vitest,cursor,zed,npm,pnpm,nodejs,bun,html,css,js,vscode,markdown,sqlite,vercel,postman,regex,helix&titles=true&perline=10)
+
+### 🚮 I won't use them anymore
+
+![I won't use them anymore](https://go-skill-icons.vercel.app/api/icons?i=mariadb,mongodb,n8n,go,elixir,illustrator,aftereffects,expressjs,jquery,firebase,supabase,kafka,vue,actix&titles=true&perline=10)
 
 ## Projects
 
