@@ -2,7 +2,7 @@
 
 # Nikaidou Haruki
 
-Experienced full stack web developer. Also working as 2D designer with Aphantasia.
+Experienced full stack web developer. Professional cloud infrastructure developer. Also working as a 2D designer despite suffering Aphantasia.
 
 ## Tech Stack
 
@@ -36,3 +36,4 @@ Experienced full stack web developer. Also working as 2D designer with Aphantasi
 
 - [Koibumi Blog](https://astro.koibumi.art/): An Astro blog template.
 - [Kanau](https://github.com/suitsu31-club/kanau): An event driven microservice framework inspired by `tower`.
+- [Wakuwaku Template](https://github.com/suitsu31-club/wakuwaku-template): An agent-friendly Rust microservices template built on wakuwaku and kanau frameworks.
