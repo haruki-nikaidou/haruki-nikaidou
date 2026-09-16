@@ -1,4 +1,4 @@
-<img src="./aki-haruki.svg" width="320px" />
+<img src="./Linear.svg" width="480px" />
 
 # Nikaidou Haruki
 
